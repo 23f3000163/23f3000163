@@ -64,13 +64,17 @@
 
 ###
 
-<div align="left">
+<h2 align="center">🔗 Connect with me</h2>
+
+<div align="center">
   <a href="https://www.instagram.com/ashish.v__/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
+
 ###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=23f3000163&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
