@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Ashish;Web+Developer;DSA+Learner;Machine+Learning+Explorer"/>
-</p>
-
 <h1 align="left">Hey 👋 I'm Ashish</h1>
 
 ###
