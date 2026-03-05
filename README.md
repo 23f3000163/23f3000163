@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learning, building, breaking, and turning ideas into code<br><br>📚 Currently learning Web Development, Data Structures & Algorithms, and Machine Learning<br><br>🚀 Building projects to improve my skills and explore new technologies<br><br>🎯 Goal: Create impactful and meaningful tech products</p>
+<p align="left">✨ Learning, building, breaking, and turning ideas into code<br><br>📚 Currently learning Web Development, Data Structures & Algorithms, and Machine Learning<br><br>🚀 Building projects to improve my skills and explore new technologies<br><br>🎯 Goal: Build impactful and meaningful tech products</p>
 
 ###
 
@@ -57,6 +57,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=23f3000163&show_icons=true&theme=tokyonight)
 
 ###
 
