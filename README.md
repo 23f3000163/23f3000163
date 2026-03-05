@@ -93,7 +93,13 @@
 ###
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=23f3000163&theme=onedark&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23f3000163&theme=react-dark&bg_color=0D1117&hide_border=true&area=true"/>
+</p>
+
+###
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=23f3000163&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ###
