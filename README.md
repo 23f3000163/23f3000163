@@ -73,7 +73,7 @@
 ###
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=23f3000163&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=23f3000163&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ###
