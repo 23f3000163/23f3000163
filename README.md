@@ -73,13 +73,7 @@
 ###
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=23f3000163&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-###
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=23f3000163&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=23f3000163&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
 ###
@@ -95,6 +89,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/23f3000163/23f3000163/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/23f3000163/23f3000163/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=23f3000163&theme=onedark&no-frame=true&row=1&column=6"/>
+</p>
 
 ###
 
