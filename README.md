@@ -72,12 +72,6 @@
 
 ###
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=23f3000163&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=23f3000163&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
@@ -94,12 +88,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=23f3000163&theme=react-dark&bg_color=0D1117&hide_border=true&area=true"/>
-</p>
-
-###
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=23f3000163&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ###
