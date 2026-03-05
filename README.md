@@ -78,12 +78,6 @@
 
 ###
 
-  <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=23f3000163&theme=tokyonight&hide_border=true"/>
-</p>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=23f3000163&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
