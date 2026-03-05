@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ashish%20Vishwakarma&fontSize=40&fontColor=ffffff"/>
-</p>
-
 <h1 align="left">Hey 👋 I'm Ashish</h1>
 
 ###
@@ -78,6 +74,12 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=23f3000163&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+</p>
+
+###
+
+  <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=23f3000163&theme=tokyonight&hide_border=true"/>
 </p>
 
 ###
